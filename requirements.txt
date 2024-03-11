@@ -1,0 +1,6 @@
+
+pandas
+numpy
+pdfquery
+PyMuPDF==1.18.5
+python-dateutil
